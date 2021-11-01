@@ -1,0 +1,2 @@
+gcc practice_8_5_a.c -pthread -lrt -o practice_8_5_a
+gcc practice_8_5_b.c -pthread -lrt -o practice_8_5_b
